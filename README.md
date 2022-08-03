@@ -40,9 +40,7 @@
      npm start
 
 ### Base URL
-    http://localhost:3000/api/
-
- 
+    https://formi-ticketing.herokuapp.com/api/
 
 ## Endpoints
   
@@ -55,5 +53,5 @@
 | GET   | /event | Find all events if  name, artist, location not passed in qs <br> or find with name, location, artist wise | 
 | DELETE | /event | Delete the event by _id | 
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/20980024-ddace235-591a-481b-a1f9-c67c6dc5c72c?action=collection%2Ffork&collection-url=entityId%3D20980024-ddace235-591a-481b-a1f9-c67c6dc5c72c%26entityType%3Dcollection%26workspaceId%3D1c687d97-092e-4c07-b900-d7384e10b729)
  
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/20980024-ddace235-591a-481b-a1f9-c67c6dc5c72c?action=collection%2Ffork&collection-url=entityId%3D20980024-ddace235-591a-481b-a1f9-c67c6dc5c72c%26entityType%3Dcollection%26workspaceId%3D1c687d97-092e-4c07-b900-d7384e10b729)
